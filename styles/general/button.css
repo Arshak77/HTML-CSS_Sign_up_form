@@ -1,0 +1,31 @@
+.btn {
+width: 360px;
+height: 70px;
+border-radius: 20px;
+border: none;
+cursor: pointer;
+}
+
+.btn-success {
+    background: #84C7AE;
+}
+
+.btn-success:hover {
+    color: #17da92;
+    background: #fff;
+}
+.btn-danger {
+    background: #e62208;
+}
+
+.btn-warning {
+    background: #c4b211;
+    }
+
+.btn-primary {
+        background: #17da92;
+    }
+
+.btn-default {
+    background: #a237bd;
+}
